@@ -1,1 +1,2 @@
-# conf-files
+My Debian configuration files
+bkup shit.
